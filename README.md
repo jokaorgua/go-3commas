@@ -14,7 +14,7 @@ A package for managing trading bots in the Go programming language. This package
 To install the package, simply run:
 
 ```bash
-go get -u github.com/EwanValentine/go-3commas
+go get -u github.com/jokaorgua/go-3commas
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ go get -u github.com/EwanValentine/go-3commas
 package main
 
 import (
-    "github.com/EwanValentine/go-3commas"
+    "github.com/jokaorgua/go-3commas"
 )
 ```
 

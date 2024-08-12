@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/EwanValentine/go-3commas/types"
+	"github.com/jokaorgua/go-3commas/types"
 )
 
 type RequestAdapter interface {

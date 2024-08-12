@@ -11,8 +11,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/EwanValentine/go-3commas/signer"
-	"github.com/EwanValentine/go-3commas/types"
+	"github.com/jokaorgua/go-3commas/signer"
+	"github.com/jokaorgua/go-3commas/types"
 )
 
 const (

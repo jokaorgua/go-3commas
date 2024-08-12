@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/EwanValentine/go-3commas/conf"
-	"github.com/EwanValentine/go-3commas/requester"
+	"github.com/jokaorgua/go-3commas/conf"
+	"github.com/jokaorgua/go-3commas/requester"
 	"github.com/matryer/is"
 )
 
